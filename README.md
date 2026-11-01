@@ -514,3 +514,14 @@ with, endorsed by, sponsored by or officially connected to SAP SE. The
 project uses a supplied KPI metadata file and synthetic demonstration
 data. No confidential customer information or real customer performance
 results are represented.
+
+## NOTE
+Copyright (c) 2026 Aditya Srivastav.
+All Rights Reserved.
+
+This repository is provided for portfolio and
+educational viewing purposes only.
+
+No permission is granted to copy, modify,
+redistribute, or commercially use this project
+without prior written permission from the author.
