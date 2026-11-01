@@ -498,9 +498,9 @@ Screenshots                         Dashboard module images located in
 
 ## Author
 
-**\[Your Name\]**
-[LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username/)
-· [GitHub Profile](https://github.com/your-github-username)
+**\[Aditya Srivastav\]**
+[LinkedIn Profile](https://www.linkedin.com/in/adityasrivastav1/)
+· [GitHub Profile](https://github.com/AdityaSrivastavDS)
 
 If you find this project useful, feel free to star the repository.
 
